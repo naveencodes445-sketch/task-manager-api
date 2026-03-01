@@ -2,6 +2,8 @@
 
 Serverless REST API built with AWS Lambda, API Gateway, and DynamoDB — handling full CRUD operations with a NoSQL backend on the AWS free tier.
 
+> **Note:** This is a backend REST API — not a website. Use Postman or any REST client to test the endpoints. Download Postman free at https://postman.com/downloads
+
 ## Live API URL
 https://1g9ggjxqo2.execute-api.us-east-2.amazonaws.com/dev
 
